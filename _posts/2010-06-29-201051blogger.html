@@ -1,0 +1,14 @@
+---
+layout: post
+title: 在2010年5月1日后在中国使用Blogger服务
+date: '2010-06-29T00:16:00.001+08:00'
+author: zixia
+tags:
+- 技术
+modified_time: '2010-06-29T15:16:11.243+08:00'
+thumbnail: http://lh4.ggpht.com/_Mb6DGPfNw3U/TCjKGFk37DI/AAAAAAAAEtE/g0Rr9MtE2sA/s72-c/blogger.gif
+blogger_id: tag:blogger.com,1999:blog-113696331058503019.post-6386980481890353043
+blogger_orig_url: http://blog.zixia.net/2010/06/201051blogger.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCjKGFk37DI/AAAAAAAAEtE/g0Rr9MtE2sA/s1600/blogger.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCjKGFk37DI/AAAAAAAAEtE/g0Rr9MtE2sA/s320/blogger.gif" /></a></div><br />Blogger.com由Twitter创始人Evan Williams在1999年创立，2003年被google收购。2007年彻底被GFW封锁，中国用户无法访问。<br /><br />作为全球最好的Blog服务，它提供了FTP发布功能。通过这项功能，中国用户可以将内容发布到国内的空间上，不会影响国内读者阅读。<br /><br />然而，Blogger团队在2010年初宣布，将在3月终止FTP发布服务，理由是FTP发布用户只占0.55%，却占用了大量的资源。公告一出，FTP用户一片哗然。因为虽然只有0.5%但是基数大，所以反对声音有很多。可惜用户的声音并没有挽救FTP发布功能，最终以Blogger宣布，顺延关闭时间到5.1日结束。<br /><br />5.1日后，所有使用ftp发布的用户都将无法更新blog。中国用户再也无法使用blogger.com了吗？<br /><br />作为一个骨灰Google粉丝，我最终通过反向代理，实现了我的博客 http://blog.zixia.net 继续使用blogger服务，同时又不影响国内用户访问。<br /><br />下面我介绍一下具体的设置方式。 <br /><ol><li>在Blogger上将FTP发布服务切换到独立域名服务，设置好自己的域名（比如我的是blog.zixia.net）；</li><li>找一台国外服务器，设置SQUID反向代理：将访问blog.zixia.net域名的请求，都转发到ghs.google.com上；</li><li>将blog.zixia.net的域名，从指向ghs.google.com更改为指向自己的国内服务器IP；</li><li>在自己的国内服务器，设置SQUID反向代理，将访问blog.zixia.net域名的请求，都转发到国外服务器的IP上；</li></ol>&nbsp;打开浏览器，访问 http://blog.zixia.net ，大功告成。<br /><br />squid配置文件关键内容如下：（1.2.3.4是国外服务器的IP）<br /><blockquote># hierarchy_stoplist cgi-bin ?<br />acl blog_domain_acl dstdomain blog.zixia.net<br />always_direct deny blog_domain_acl<br />cache_peer 1.2.3.4 parent 3128 0 no-query originserver proxy-only no-digest no-netdb-exchange allow-miss name=blogproxy<br />cache_peer_access blogproxy allow blog_domain_acl<br /># 感谢 windtear 的技术支持 http://windtear.net/</blockquote><br />祝大家 Happy Blogging ！

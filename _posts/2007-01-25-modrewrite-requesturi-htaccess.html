@@ -1,0 +1,14 @@
+---
+layout: post
+title: 令人恼火的mod_rewrite - %{REQUEST_URI}, .htaccess 和 httpd.conf
+date: '2007-01-25T17:24:00.001+08:00'
+author: zixia
+tags:
+- 技术
+modified_time: '2010-06-28T00:03:27.185+08:00'
+thumbnail: http://bp0.blogger.com/_Mb6DGPfNw3U/Rbh5TiDcKwI/AAAAAAAAAAk/gHWSm9rE-IY/s72-c/DSC08473.JPG
+blogger_id: tag:blogger.com,1999:blog-113696331058503019.post-8862182598486196107
+blogger_orig_url: http://blog.zixia.net/2007/01/modrewrite-requesturi-htaccess.html
+---
+
+<a href="http://bp0.blogger.com/_Mb6DGPfNw3U/Rbh5TiDcKwI/AAAAAAAAAAk/gHWSm9rE-IY/s1600-h/DSC08473.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5023898760797498114" src="http://bp0.blogger.com/_Mb6DGPfNw3U/Rbh5TiDcKwI/AAAAAAAAAAk/gHWSm9rE-IY/s320/DSC08473.JPG" style="cursor: pointer; display: block; float: right; height: 156px; margin: 0px auto 10px; text-align: center; width: 117px;" /></a><br />折腾了半天apache rewrite rule，整理一下郁闷列表：<br /><br />1、apache 1.x.x 不支持 \d 的 regex 表达<br />2、在 .htaccess 中设置的 rewrite rule，如果 REQUES_URI 变化，则apache会重新执行一遍 .htaccess 中的 rewrite rule<br />3、在 httpd.conf 中设置 rewriterule，则不会有 2 的问题，是一锤子买卖<br />4、多个RewriteCond中，后面的RewriteCond无法使用之前RewriteCond中匹配的 %n 变量<br /><br />几个速查帮助手册链接 - <a href="http://del.icio.us/zixia/mod_rewrite">http://del.icio.us/zixia/mod_rewrite</a>

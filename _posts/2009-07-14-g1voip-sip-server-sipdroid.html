@@ -1,0 +1,14 @@
+---
+layout: post
+title: G1手机上的VOIP之旅 - SIP Server + SipDroid
+date: '2009-07-14T02:30:00.007+08:00'
+author: zixia
+tags:
+- Android
+modified_time: '2010-06-27T23:20:09.717+08:00'
+thumbnail: http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdr29K7scI/AAAAAAAAEqY/KiuV8NhKrY0/s72-c/sip_phone-774169.jpg
+blogger_id: tag:blogger.com,1999:blog-113696331058503019.post-5688423269601597589
+blogger_orig_url: http://blog.zixia.net/2009/07/g1voip-sip-server-sipdroid.html
+---
+
+<div style="text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdr29K7scI/AAAAAAAAEqY/KiuV8NhKrY0/s1600/sip_phone-774169.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdr29K7scI/AAAAAAAAEqY/KiuV8NhKrY0/s320/sip_phone-774169.jpg" /></a></div><br />前两天帮朋友用手机打了两个国际长途，用了错误的 17951 作为IP长途号（中移动17951国内长途有效，国际长途应该用12593），结果发现一分钟要￥3.6，即使没有人接电话，也会收。<br /><br />于是在 G1 上玩 Android Market 留意了一下VOIP。<br /><br />Skype 发布了 Android 平台版本。但是对于语音通话，和 iSkoot 一样，是用 PSTN（既普通的语音通话） 呼叫一个本地的电话号码，来进行转发的。不是VOIP。<br /><br />后来找到了 SipDroid ，这个软件带我走入了 VOIP 的世界。<br /><br />SIP VOIP 应该怎么玩呢？我是这样玩的：<br /><br /><ol><li>Gizmo5.com - SIPDroid 这个软件需要一个 SIP 服务商。经过比较 n 多后（如 nonoh.net 等），选中了看起来比较靠谱的 gizmo5.com （另外一个很大的原因是只有 gizmo5.com 能注册到 zixia 这个帐号……）。<br />花费 $10 购买了呼出功能，打电话到全球大多数地区的费率是一两毛钱人民币吧，语音效果不错；<br />花费$4购买了 Caller ID 功能，可以在部分支持的地区，显示自己的手机号；</li><li>GTalk2Voip.com - 可以绑定 GTalk 到这个网站，然后在GTalk里面即可拨打 SIP 地址的电话，或是 PSTN 电话。<br />同时还支持 SIP 电话拨打 GTalk，我的 gtalk SIP 地址是： zixia_at_zixia.net@gtalk2voip.com （如果你像我一样不是标准 gmail 用户，也是 Google Apps 或者 Jabber 用户，那么这个地址格式也许能帮到你）;<br />还可以在全球购买电话号码绑定到自己的 GTalk 上。<br />花费 $10 开通了语音呼出功能，打电话到全球大多数地区的费率是一两毛钱人民币吧，语音效果不错；<br />花费 $4 购买了一个美国本地的电话号码，拨打这个电话号码就可以用 GTalk 语音接收了（$2 设置费，$2使用费/月）；</li><li>IPTel.org - 免费提供 SIP for Your Domain 的服务，也就是让你用自己的域名可以接收 SIP 呼叫。<br />设置 zixia.net SIP 先需要修改DNS增加SIP设置，然后在 IPTel.org 上进行域名绑定即可。<br />这样开通了我的 zixia@zixia.net 作为自己的 SIP 呼叫地址。</li><li>Skype - 又给 Skype 充值了 $10 。<br />Skype的充值会过期，以前好几个 $10 都是过期了，太奸商了。<br /></li><li>PBXes.com -  免费提供程控交换机的功能。你可以设置自己的内线号码，设置绑定多个 SIP 服务提供商，并可设置拨打某些国家的电话号码时，使用指定的 SIP 服务（比如最便宜的，或效果最好的），并有语音信箱功能；<br /></li></ol><br />最终的效果：<br /><br /><ol><li>我拥有了属于自己的 SIP 地址： zixia@zixia.net 。为了方便，设置了呼叫转移，转移到 SIP://zixia@gizmo5.com </li><li>我的 G1 手机上运行了 SIPDroid 软件，可以通过 Wifi 或 Edge 登录到 Gizmo5.com ，随时接收到呼叫 SIP://zixia@zixia.net 的电话；</li><li>我在拨打国际长途的时候，G1会自动使用 SIPDroid 通过 Gizmo5.com 的 SIP 服务，使用 VOIP 拨打，费率￥0.1左右/分钟；</li><li>我拥有了一个美国本地电话号码：+1-567-251-5265 。如果我的手机上开着 SIPDroid ，拨打这个号码会和普通电话一样，我可以在手机上接听，免费。（欢迎骚扰～）</li><li>在没有 Wifi 的区域，使用 Edge 也可以很流畅的进行通话。（我的 Edge 流量是 ￥50 包 650MB。如果3G当然就更没问题了）</li><li>高兴的话，还可以用 PBXes 设置内线号码，集团彩铃，不同国家不同SIP线路，语音信箱，等等等等。（中关村买的电话交换机的功能，PBXes上几乎都有）</li></ol><br />随着智能设备的不断普及，当大多数电话都已不再是一个简单的电路板和电磁铁组成，而是运行着Android等嵌入操作系统的智能设备时……<br /><br />电信运营商，你们还能这么暴利吗？
