@@ -5,6 +5,7 @@ Here's blog from huan.
 # TUTORIAL
 
 * [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#setting-up-jekyll-)
+* [To import your posts from your Blogger](http://import.jekyllrb.com/docs/blogger/)
 
 ## Setup
 
