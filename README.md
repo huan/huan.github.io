@@ -10,6 +10,7 @@ Here's blog from huan.
 ## Setup
 
 ```shell
+
 jekyll new JekyllDemo
 
 ruby -rubygems -e 'require "jekyll-import";
@@ -20,4 +21,10 @@ ruby -rubygems -e 'require "jekyll-import";
     })'
 
 bundle exec jekyll serve --watch
+```
+
+## Local View
+
+```shell
+gem install bundler
 ```
