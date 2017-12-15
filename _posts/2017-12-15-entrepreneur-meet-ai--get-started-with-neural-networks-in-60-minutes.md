@@ -350,7 +350,7 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
     height:0;
     overflow:hidden;
 ">
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=n0519tnq1cq&tiny=0&auto=0" allowfullscreen="" style="
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=n0519tnq1cq&tiny=0&auto=0" allowfullscreen="true" style="
     position: absolute;
     top:0;
     left:0;
