@@ -350,7 +350,7 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
     height:0;
     overflow:hidden;
 ">
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=n0519tnq1cq&tiny=0&auto=0" allowfullscreen="true" style="
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=l0519epyx7l&tiny=0&auto=0" allowfullscreen="true" style="
     position: absolute;
     top:0;
     left:0;
@@ -387,7 +387,7 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
 
 [huan-ai-slide]: https://docs.google.com/presentation/d/17bv7w8A-0x6H_aAhlIRj5AEzJByDsaV-jRROOi1g-d4/edit?usp=sharing
 [huan-ai-talk]: https://www.youtube.com/watch?v=v7hpmQrSriI
-[huan-ai-talk-tencent]: https://v.qq.com/x/page/n0519tnq1cq.html
+[huan-ai-talk-tencent]: https://v.qq.com/x/page/l0519epyx7l.html
 [huan-ai-pdf]: /downloads/2017/12/entrepreneur-meet-ai--get-started-with-neural-networks-in-60-minutes.pdf
 
 [lizhi-ximalaya]: http://m.ximalaya.com/40080673/sound/60728903
