@@ -11,12 +11,12 @@ tags:
 
 ![Slide Page 1][slide-01]
 
-* 2016年，我开始不再关注移动互联网行业的天使投资，开始深度关注人工智能。我先阅读了[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)，然后完成吴恩达的[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)课程后，接下来阅读了大量论文和代码，并自己动手写了一些GitHub上开源的机器学习项目，如[FaceNet](https://github.com/zixia/node-facenet)。
-* 2017年，我定位只投资AI领域，并开始PreAngel投资了5个AI早期项目。11月份，我得到了机器学习[博士入学的Offer](https://weibo.com/1663343825/FwVey3c3k)。
-
 2017年，人工智能开始不断的从我们想象中的遥远世界里，迅速的融入到我们生活和工作中，成为了一种新的生活方式。技术天翻地覆的变革不断的跳到我们面前，投资人和创业者们改如何抓住未来最大的人工智能机会？
 
 我认为，为了拥抱人工智能，首先我们需要和AI交朋友，对AI技术进行真正的了解。因为只有真正理解了AI技术，才能理解如何将其融入具体的应用场景中。其次，我们必须聚焦专注的抓住一个痛点，并将其解决到极致。
+
+* 2016年，我开始不再关注移动互联网行业的天使投资，开始深度关注人工智能。我最初阅读了[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)，然后完成了吴恩达的[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)课程。接下来，我开始阅读大量论文和代码，并自己动手写了一些GitHub上开源的机器学习项目，如[FaceNet](https://github.com/zixia/node-facenet)。
+* 2017年，我定位只投资AI领域，并开始PreAngel投资了5个AI早期项目。11月份，我得到了机器学习[博士入学的Offer](https://weibo.com/1663343825/FwVey3c3k)。
 
 <!--more-->
 
@@ -386,7 +386,7 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
 * [人工智能专家李卓桓：什么是神经网络和机器学习！][lizhi-ximalaya]
 
 [huan-ai-slide]: https://docs.google.com/presentation/d/17bv7w8A-0x6H_aAhlIRj5AEzJByDsaV-jRROOi1g-d4/edit?usp=sharing
-[huan-ai-talk]: https://www.youtube.com/watch?v=v7hpmQrSriI
+[huan-ai-talk]: https://youtu.be/jDvVJtBtjlE
 [huan-ai-talk-tencent]: https://v.qq.com/x/page/l0519epyx7l.html
 [huan-ai-pdf]: /downloads/2017/12/entrepreneur-meet-ai--get-started-with-neural-networks-in-60-minutes.pdf
 
