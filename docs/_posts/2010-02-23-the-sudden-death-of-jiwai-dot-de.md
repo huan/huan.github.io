@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 叽歪被死亡
-date: '2010-04-01T02:19:00.002+08:00'
+date: '2010-02-23'
 author: zixia
 tags:
 - 创业
@@ -12,4 +12,52 @@ blogger_id: tag:blogger.com,1999:blog-113696331058503019.post-589703819639609794
 blogger_orig_url: http://blog.zixia.net/2001/04/blog-post.html
 ---
 
-<span style="font-weight: bold;">An entrepreneur is a person who organizes a business venture and assumes the risk for it.<br /><br /></span><br /><div style="text-align: right;"><div style="text-align: left;"></div>作者：<a href="http://swelse.com/2010/02/23/the-sudden-death-of-jiwai-dot-de/" target="_blank">张凯锋</a> 摄影：李冰<br />《创业家》杂志2009年3月</div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdVS6L18II/AAAAAAAAEmg/XGHbrWSkygE/s1600/jiwai_mbw-795380.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdVS6L18II/AAAAAAAAEmg/XGHbrWSkygE/s320/jiwai_mbw-795380.jpg" /></a></div><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://www.blogger.com/post-edit.g?blogID=113696331058503019&amp;postID=5897038196396097941" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a><a href="http://www.blogger.com/post-edit.g?blogID=113696331058503019&amp;postID=5897038196396097941" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a></div><br />叽歪的首页有一句话：非常抱歉，系统被维护中…<br /><br />“叽歪重开的希望不大了。”2月1日，李卓桓平静地说，经过半年多的努力和等待，他决定不再坚持下去，“生活还在继续，得做点能赚钱的事。”<br /><br /><br /><br /><br />叽歪创建于2007年6月，和国内很多微博网站一样，李卓桓曾希望把叽歪打造成中国版的Twitter，虽然离盈利还遥远，但他一直相信，这是一个社会媒体平台，商业价值终有一天会爆发出来，为此他一直在努力寻求融资、改进产品。但到了2009年7月21日，这个梦想被迫戛然而止。<br /><br />李卓桓记得当天IDC打来的电话是这样说的，“接上级通知，要求你们停止服务。”没有给出具体的理由，也不知道“上级”是哪个部门，但显然这个通知没有讨价还价的余地。“如果我们自己不停止服务，就会被拔网线。”李卓桓对政府监管并不陌生，但一般只是删除不良内容，直接要求网站停止服务，还是第一次。<br /><br />7月22日，叽歪的官方博客写了两句话，一句是麦克阿瑟的名言“Old soldiers never die, they just fade away（老兵不死，只是逐渐凋零）。”另外一句是“叽歪把自己藏起来了，你还能找到TA吗？”不无调侃的意味，此时李卓桓认为，叽歪应该很快就可以重开，不幸的是，他过于乐观了。<br /><br />叽歪并不是唯一一家被要求停止服务的微博网站，当7月21日当天，还有嘀咕、做啥等网站接到了类似的通知而停止服务，而此前的7月8日，另一家微博网站饭否也突然关停。对于微博网站的整顿是中国互联网专项整治的序幕，到2009年年底，被涉及的网站数量将近10万家，而其中大多是个人创业者的网站。<br /><br />对于一家互联网公司而言，网站被关停就几乎等同于死亡，作为创始人，李卓桓立即开始了寻求解决方法，但问题是，他不知道该找谁。“政府对互联网是多头管理，工信部、新闻办、网监处都是互联网公司的主管部门，但很难找到具体负责的人。”<br /><br />整个8、9月李卓桓都在想各种办法，让重新提供服务，他和一些主管部门的人沟通过，甚至写过检讨，但网站始终开不了，“可能大家也都知道是怎么回事，心照不宣，但无法给你解决。”<br /><br />值得庆幸的是，网站虽然关了，但公司还算在正常运作之中，因为李卓桓相信十一之后应该会有转机，但十一之后依然是无尽的等待：主管部门从来都没有说不能开，但也从来都没有说什么时候能重新开，这无疑是一种让人煎熬的状态，但似乎最开始的痛苦慢慢地变淡了。<br /><br /><a href="http://www.blogger.com/post-edit.g?blogID=113696331058503019&amp;postID=5897038196396097941" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><a href="http://www.blogger.com/post-edit.g?blogID=113696331058503019&amp;postID=5897038196396097941" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdS-jssKGI/AAAAAAAAEls/brUtCvqfCH0/s1600/CSDN-speech-706801.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdS-jssKGI/AAAAAAAAEls/brUtCvqfCH0/s320/CSDN-speech-706801.jpg" /></a></div>“如果你失去了一条胳膊，一开始肯定是痛不欲生，很绝望，但慢慢也会过去，会习惯，到最后这变成生活中正常的一部分，会继续去做你该做的事。”李卓桓说，“10月后，团队的人慢慢走了，没办法，平台没了嘛，到十二月，我感觉已经基本上觉得开不了了。”<br /><br /><br />在创建叽歪之前，李卓桓曾在ChinaRen.com担任网络工程师，并参与创建优酷网，因其互联网创业经历，2009年10月上旬、12月下旬，李卓桓也作为清华企业家协会（TEEC）的成员分别去了一趟美国和台湾。在美国，他参加华源会、亚杰商会的年会，参观了Google、CISCO、 RockYou、Facebook、Apple等一系列硅谷的成功公司；在台湾，也参观了台湾大哥大，无名小站，以及很多SP公司。<br /><br />“我觉得创业的想法大家没什么太大的区别，他们也有很多项目不靠谱，但关键是人家想做什么，只要不违法去可以做，没有约束，搞成的搞不成，大家都愿赌服输。一家创业公司创业一年自然死亡，和半年因为莫名其妙的原因被关而非正常死亡，性质是完全不一样的。”李卓桓说，“我觉得创业的环境不是管出来，主管部门管的越少越好。”<br /><br />未来做什么？李卓桓还没有想好，“互联网上可以选择的事太多了，但是，能做不一定能做好，能做好不一定能做成。以前我是只要自己喜欢，扑上去就搞，但现在做之前要想一想，看看里面有没有潜在的风险。”(the founder magazine issue 201003)<br /><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdUn9lLwgI/AAAAAAAAEl4/WAr1wNImhkM/s1600/After-You-are-Declare-Dead-Index-787356.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh6.ggpht.com/_Mb6DGPfNw3U/TCdUn9lLwgI/AAAAAAAAEl4/WAr1wNImhkM/s320/After-You-are-Declare-Dead-Index-787356.JPG" /></a></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdUuQ9foPI/AAAAAAAAEmA/C9yF1FQWwi8/s1600/Dead-1-of-3-787425.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdUuQ9foPI/AAAAAAAAEmA/C9yF1FQWwi8/s320/Dead-1-of-3-787425.jpg" /></a></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh3.ggpht.com/_Mb6DGPfNw3U/TCdU5EhPA1I/AAAAAAAAEmI/HvLvsEo3YPk/s1600/Dead-3-of-3-771997.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh3.ggpht.com/_Mb6DGPfNw3U/TCdU5EhPA1I/AAAAAAAAEmI/HvLvsEo3YPk/s320/Dead-3-of-3-771997.jpg" /></a></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdVAJpYCYI/AAAAAAAAEmQ/9RRnp4Q_pAM/s1600/Dead-2-of-3-771915.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdVAJpYCYI/AAAAAAAAEmQ/9RRnp4Q_pAM/s320/Dead-2-of-3-771915.jpg" /></a></div><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdVF7EtjWI/AAAAAAAAEmY/Hyf7j4L6dbg/s1600/parkour_jingang-787517.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdVF7EtjWI/AAAAAAAAEmY/Hyf7j4L6dbg/s320/parkour_jingang-787517.jpg" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"></div><a href="http://www.blogger.com/post-edit.g?blogID=113696331058503019&amp;postID=5897038196396097941" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><a href="http://www.blogger.com/post-edit.g?blogID=113696331058503019&amp;postID=5897038196396097941" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><br /><div class="separator" style="clear: both; text-align: center;"></div>
+An entrepreneur is a person who organizes a business venture and assumes the risk for it.  
+  
+作者：[张凯锋](http://swelse.com/2010/02/23/the-sudden-death-of-jiwai-dot-de/) 摄影：李冰  
+《创业家》杂志2009年3月
+
+![](/assets/2010/02-sudden-death/jiwai-maintain.jpg)
+
+  
+叽歪的首页有一句话：非常抱歉，系统被维护中…  
+  
+“叽歪重开的希望不大了。”2月1日，李卓桓平静地说，经过半年多的努力和等待，他决定不再坚持下去，“生活还在继续，得做点能赚钱的事。”  
+  
+  
+  
+  
+叽歪创建于2007年6月，和国内很多微博网站一样，李卓桓曾希望把叽歪打造成中国版的Twitter，虽然离盈利还遥远，但他一直相信，这是一个社会媒体平台，商业价值终有一天会爆发出来，为此他一直在努力寻求融资、改进产品。但到了2009年7月21日，这个梦想被迫戛然而止。  
+  
+李卓桓记得当天IDC打来的电话是这样说的，“接上级通知，要求你们停止服务。”没有给出具体的理由，也不知道“上级”是哪个部门，但显然这个通知没有讨价还价的余地。“如果我们自己不停止服务，就会被拔网线。”李卓桓对政府监管并不陌生，但一般只是删除不良内容，直接要求网站停止服务，还是第一次。  
+  
+7月22日，叽歪的官方博客写了两句话，一句是麦克阿瑟的名言“Old soldiers never die, they just fade away（老兵不死，只是逐渐凋零）。”另外一句是“叽歪把自己藏起来了，你还能找到TA吗？”不无调侃的意味，此时李卓桓认为，叽歪应该很快就可以重开，不幸的是，他过于乐观了。  
+  
+叽歪并不是唯一一家被要求停止服务的微博网站，当7月21日当天，还有嘀咕、做啥等网站接到了类似的通知而停止服务，而此前的7月8日，另一家微博网站饭否也突然关停。对于微博网站的整顿是中国互联网专项整治的序幕，到2009年年底，被涉及的网站数量将近10万家，而其中大多是个人创业者的网站。  
+  
+对于一家互联网公司而言，网站被关停就几乎等同于死亡，作为创始人，李卓桓立即开始了寻求解决方法，但问题是，他不知道该找谁。“政府对互联网是多头管理，工信部、新闻办、网监处都是互联网公司的主管部门，但很难找到具体负责的人。”  
+  
+整个8、9月李卓桓都在想各种办法，让重新提供服务，他和一些主管部门的人沟通过，甚至写过检讨，但网站始终开不了，“可能大家也都知道是怎么回事，心照不宣，但无法给你解决。”  
+  
+值得庆幸的是，网站虽然关了，但公司还算在正常运作之中，因为李卓桓相信十一之后应该会有转机，但十一之后依然是无尽的等待：主管部门从来都没有说不能开，但也从来都没有说什么时候能重新开，这无疑是一种让人煎熬的状态，但似乎最开始的痛苦慢慢地变淡了。  
+  
+![Huan](/assets/2010/02-sudden-death/huan.jpg)  
+
+“如果你失去了一条胳膊，一开始肯定是痛不欲生，很绝望，但慢慢也会过去，会习惯，到最后这变成生活中正常的一部分，会继续去做你该做的事。”李卓桓说，“10月后，团队的人慢慢走了，没办法，平台没了嘛，到十二月，我感觉已经基本上觉得开不了了。”  
+  
+  
+在创建叽歪之前，李卓桓曾在ChinaRen.com担任网络工程师，并参与创建优酷网，因其互联网创业经历，2009年10月上旬、12月下旬，李卓桓也作为清华企业家协会（TEEC）的成员分别去了一趟美国和台湾。在美国，他参加华源会、亚杰商会的年会，参观了Google、CISCO、 RockYou、Facebook、Apple等一系列硅谷的成功公司；在台湾，也参观了台湾大哥大，无名小站，以及很多SP公司。  
+  
+“我觉得创业的想法大家没什么太大的区别，他们也有很多项目不靠谱，但关键是人家想做什么，只要不违法去可以做，没有约束，搞成的搞不成，大家都愿赌服输。一家创业公司创业一年自然死亡，和半年因为莫名其妙的原因被关而非正常死亡，性质是完全不一样的。”李卓桓说，“我觉得创业的环境不是管出来，主管部门管的越少越好。”  
+  
+未来做什么？李卓桓还没有想好，“互联网上可以选择的事太多了，但是，能做不一定能做好，能做好不一定能做成。以前我是只要自己喜欢，扑上去就搞，但现在做之前要想一想，看看里面有没有潜在的风险。”(the founder magazine issue 201003)  
+
+![the sudden death of jiwai dot de](/assets/2010/02-sudden-death/jiwai-dead-index.jpg)
+
+![the sudden death of jiwai dot de](/assets/2010/02-sudden-death/jiwai-dead-3-1.jpg)
+
+![the sudden death of jiwai dot de](/assets/2010/02-sudden-death/jiwai-dead-3-2.jpg)
+
+![the sudden death of jiwai dot de](/assets/2010/02-sudden-death/jiwai-dead-3-3.jpg)
+
+![Huan Parkour](/assets/2010/02-sudden-death/parkour.jpg)
