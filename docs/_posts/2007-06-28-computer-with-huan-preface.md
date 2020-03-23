@@ -21,7 +21,7 @@ zixia@zixia.net
 
 ![](/assets/2007/06-away-from-computer.jpg)
 
-- [我是如何与电脑成为死党的（一：初中）](https://blog.zixia.net/2007/06/28/computer-with-huan-1-middle-school/)
-- [我是如何与电脑成为死党的（二：高中）](https://blog.zixia.net/2007/06/29/computer-with-huan-2-high-school/)
-- [我是如何与电脑成为死党的（三：大学一年级）](https://blog.zixia.net/2007/06/30/computer-with-huan-3-freshman/)
-- [我是如何与电脑成为死党的（四：大学二年级）（1998年）](http://blog.zixia.net/2007/07/18/computer-with-huan-4-junior/)
+1. [我是如何与电脑成为死党的（一：初中）](https://blog.zixia.net/2007/06/28/computer-with-huan-1-middle-school/)
+1. [我是如何与电脑成为死党的（二：高中）](https://blog.zixia.net/2007/06/29/computer-with-huan-2-high-school/)
+1. [我是如何与电脑成为死党的（三：大学一年级）](https://blog.zixia.net/2007/06/30/computer-with-huan-3-freshman/)
+1. [我是如何与电脑成为死党的（四：大学二年级）（1998年）](http://blog.zixia.net/2007/07/18/computer-with-huan-4-junior/)
