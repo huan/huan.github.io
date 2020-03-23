@@ -19,5 +19,9 @@ zixia@zixia.net
 
 写到这里，看到了[seek在叽歪de给我的鼓励](http://jiwai.de/seek/statuses/6274037)，我决定更仔细的回忆一下。:-)
 
-
 ![](/assets/2007/06-away-from-computer.jpg)
+
+- [我是如何与电脑成为死党的（一：初中）](https://blog.zixia.net/2007/06/28/computer-with-huan-1-middle-school/)
+- [我是如何与电脑成为死党的（二：高中）](https://blog.zixia.net/2007/06/29/computer-with-huan-2-high-school/)
+- [我是如何与电脑成为死党的（三：大学一年级）](https://blog.zixia.net/2007/06/30/computer-with-huan-3-freshman/)
+- [我是如何与电脑成为死党的（四：大学二年级）（1998年）](http://localhost:4000/2007/07/18/computer-with-huan-4-junior/)
