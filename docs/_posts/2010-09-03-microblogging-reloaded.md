@@ -20,11 +20,11 @@ blogger_orig_url: http://blog.zixia.net/2010/09/microblogging-reloaded.html
 
 2009年下半年，我于07年创立的微博服务 JiWai.com 的“被死亡”，让我度过了一段非常难忘的时光。
 
-* [叽歪被死亡](https://blog.zixia.net/2010/03/31/blog-post.html) - [https://blog.zixia.net/2010/03/31/blog-post.html](https://blog.zixia.net/2010/03/31/blog-post.html)
+* [叽歪被死亡](https://blog.zixia.net/2010/02/23/the-sudden-death-of-jiwai-dot-de/) - [https://blog.zixia.net/2010/02/23/the-sudden-death-of-jiwai-dot-de/](https://blog.zixia.net/2010/02/23/the-sudden-death-of-jiwai-dot-de/)
 
 2010年上半年，我为叽歪网用户出版了《叽歪志》后，均衡了各方面因素，最终将叽歪网所有资产转让给了一位无线互联网前辈。  
 
-* [《叽歪志》序](https://blog.zixia.net/2010/04/29/blog-post.html) - [https://blog.zixia.net/2010/04/29/blog-post.html](https://blog.zixia.net/2010/04/29/blog-post.html)
+* [《叽歪志》序](https://blog.zixia.net/2010/04/29/jiwaizhi-preface/) - [https://blog.zixia.net/2010/04/29/jiwaizhi-preface/](https://blog.zixia.net/2010/04/29/jiwaizhi-preface/)
 
 2010年7月2日，和叽歪相关的所有事项都完全close。从这个时候，我开始认真的思考自己接下来的方向。  
 
