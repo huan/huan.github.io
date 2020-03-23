@@ -60,7 +60,7 @@ blogger_orig_url: http://blog.zixia.net/2011/04/emba-entrepreneur-depth-manageme
 
 <div>当然，为了得到中欧EMBA学习机会，要付出很大的成本。中欧EMBA2011春季班的学费是<span class="Apple-style-span" style="color: red; font-size: large;">**￥458,000**</span>。</div>
 
-我从2007年创立叽歪开始，没有过正式的收入。最终叽歪的“被死亡”，让三年几乎所有的投入都烟消云散。（关于我的微博客创业经历，可参见我的2010年博文：[The MicroBlogging Reloaded](http://blog.zixia.net/2010/09/microblogging-reloaded.html)）
+我从2007年创立叽歪开始，没有过正式的收入。最终叽歪的“被死亡”，让三年几乎所有的投入都烟消云散。（关于我的微博客创业经历，可参见我的2010年博文：[The MicroBlogging Reloaded](https://blog.zixia.net/2010/09/03/microblogging-reloaded.html)）
 
 所以，我想了一个寻求赞助的方案，希望可以在双赢的基础上，获得大家的帮助：
 
