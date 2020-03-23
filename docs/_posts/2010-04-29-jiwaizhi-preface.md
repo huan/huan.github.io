@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-113696331058503019.post-701771823061423655
 blogger_orig_url: http://blog.zixia.net/2010/04/blog-post.html
 ---
 
-[![](http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdSESvnJdI/AAAAAAAAElc/OVrCBqD-Zwk/s320/jiwai_book.gif)](http://lh4.ggpht.com/_Mb6DGPfNw3U/TCdSESvnJdI/AAAAAAAAElc/OVrCBqD-Zwk/s1600/jiwai_book.gif)
+![](/assets/2010/04-jiwaizhi/jiwai-book.gif)
 
 《叽歪志》序
 
@@ -57,6 +57,8 @@ zixia(李卓桓) 2010年4月
 叽歪会永远向前，因为路一直都在。
 
 > “人生原本就是减法，见一面少一面的。须知缘分都是上天给的，要收回的时候，连一分一刻都不会多等……” - Juliette@叽歪
+
+![](/assets/2010/04-jiwaizhi/jiwaizhi-venj.jpg)
 
 【叽歪大事记】
 
