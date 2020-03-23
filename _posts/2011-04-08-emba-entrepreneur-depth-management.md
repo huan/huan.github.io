@@ -11,4 +11,96 @@ blogger_id: tag:blogger.com,1999:blog-113696331058503019.post-630511538957482107
 blogger_orig_url: http://blog.zixia.net/2011/04/emba-entrepreneur-depth-management.html
 ---
 
-<div class="separator" style="clear: both; text-align: left;"></div><blockquote>“<i>中国目前正处在一个关键的转折点，如果说中国目前还缺少什么东西的话，那就是受过职业训练的商业领袖。</i>”<br /><div align="right"><b><i>约翰·奎尔奇（John A. Quelch）</i></b><br /><i>中欧国际工商学院 副院长兼教务长</i><br /><i>哈佛大学商学院原资深副院长</i><br /><i>伦敦商学院原院长</i></div></blockquote><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://lh4.googleusercontent.com/_Mb6DGPfNw3U/TZMhFWJ3XlI/AAAAAAAAE7g/w-77CKCqYYQ/s800/%E4%B8%AD%E6%AC%A7%E5%85%A5%E5%AD%A6%E4%B8%AA%E4%BA%BA%E7%85%A7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="275" src="https://lh4.googleusercontent.com/_Mb6DGPfNw3U/TZMhFWJ3XlI/AAAAAAAAE7g/w-77CKCqYYQ/s400/%E4%B8%AD%E6%AC%A7%E5%85%A5%E5%AD%A6%E4%B8%AA%E4%BA%BA%E7%85%A7.jpg" width="400" /></a></div><div style="text-align: center;">2011年3月19日 上海校区</div><br /><a href="http://www.ceibs.edu/" target="_blank">中欧国际工商学院</a>2011级EMBA开学了。我和中欧的缘分始于2010年4月。<br /><br />那天，我偶然读到了中欧国际工商学院管理学副教授<a href="http://www.ceibs.edu/faculty_c/cv/1058.shtml" target="_blank">肖知兴</a>所著的《<a href="http://book.douban.com/subject/1902481/" target="_blank">中国人为什么组织不起来</a>》。一口气读完后，感受到书中不但有广阔国际视野、对中国文化底蕴的透彻理解，更有功力深厚的企业管理经验与人性的理解。<br /><br />接下来，我开始近距离接触中欧。我了解了中欧“最国际的中国商学院，最中国的国际商学院”精准定位；我感受了中欧美丽的北京校区。校园里风格大气、时尚的教学大楼和宁静明亮的教室让我不禁感慨，有了马上想要重归校园的欲望。<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh3.googleusercontent.com/_Mb6DGPfNw3U/TZM2XcbGs4I/AAAAAAAAE7w/6ezGbDXdFpA/s800/%E4%B8%AD%E6%AC%A7%E5%8C%97%E4%BA%AC%E6%A0%A1%E5%9B%ADLOGO%E5%A4%A7%E5%9B%BE.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="265" src="http://lh3.googleusercontent.com/_Mb6DGPfNw3U/TZM2XcbGs4I/AAAAAAAAE7w/6ezGbDXdFpA/s400/%E4%B8%AD%E6%AC%A7%E5%8C%97%E4%BA%AC%E6%A0%A1%E5%9B%ADLOGO%E5%A4%A7%E5%9B%BE.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: center;">中欧国际工商学院 北京校区</div><br />10月，决定报考中欧EMBA，并且只报考了中欧。因为觉得和中欧有缘分。<br /><br />11月，准备推荐信。恰逢vkoo老大<a href="http://t.sina.com.cn/guyongqiang" target="_blank">古永锵</a>忙于筹备优酷上市去美国路演。最终请了<a href="http://aamachina.com.cn/" target="_blank">AAMA亚杰商会摇篮计划</a>的导师<a href="http://t.sina.com.cn/kaifulee" target="_blank">李开复</a>老师、<a href="http://t.sina.com.cn/leijun" target="_blank">雷军</a>老师帮我做了推荐。<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://lh6.googleusercontent.com/_Mb6DGPfNw3U/TZ3mvL0QeBI/AAAAAAAAE8M/z_ma27SkBr8/s800/kaifu-helping.jpg%20target=" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="74" src="https://lh6.googleusercontent.com/_Mb6DGPfNw3U/TZ3mvL0QeBI/AAAAAAAAE8M/z_ma27SkBr8/s800/kaifu-helping.jpg" width="400" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://lh5.googleusercontent.com/_Mb6DGPfNw3U/TZ3nAKwfHRI/AAAAAAAAE8U/hIYAU_u-IUM/s800/kaifu-specials.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="112" src="https://lh5.googleusercontent.com/_Mb6DGPfNw3U/TZ3nAKwfHRI/AAAAAAAAE8U/hIYAU_u-IUM/s400/kaifu-specials.jpg" width="400" /></a></div><br />开复老师的推荐信中评价我是一个“full of energy”和“much more fun”的人。<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://lh5.googleusercontent.com/_Mb6DGPfNw3U/TZ3m-iypvHI/AAAAAAAAE8Q/MY9BFXXCHU0/s800/kaifu-rating.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="190" src="https://lh5.googleusercontent.com/_Mb6DGPfNw3U/TZ3m-iypvHI/AAAAAAAAE8Q/MY9BFXXCHU0/s400/kaifu-rating.jpg" width="400" /></a></div><br />并在和“Other top entrepreneurs in Beijing”对比后，给了我2个良好5个优秀的评分。<br /><br />雷军老师的推荐信，由于交给我的时候已经封口，所以没看到，很遗憾。<br /><br /><div style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;"><br /></div><div style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;">今年1月份，经历了报名坎坷，面试忐忑；终于荣幸的迎来了中欧录取通知书。</div><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://lh6.googleusercontent.com/_Mb6DGPfNw3U/TZ3vYvYuisI/AAAAAAAAE8k/7NiQMVOu5IE/s800/ceibs_confirm.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="136" src="https://lh6.googleusercontent.com/_Mb6DGPfNw3U/TZ3vYvYuisI/AAAAAAAAE8k/7NiQMVOu5IE/s400/ceibs_confirm.jpg" width="400" /></a></div><br />回顾清华工科出身，一直在互联网领域创业的我：从创立清华校园最大的zixia FTP，到第一轮互联网泡沫时在ChinaRen参与创业；从在担任中国最大的Youtube模式网站优酷网首席科学家，到创立第一家中文微博客Twitter类网站叽歪网服务；一直走在互联网技术的前沿。<br /><br />在这些过程中，我是一个技术推动者和Geek。作为技术领域的Leader，我始终坚信：技术只有应用到社会中，才能带动带动社会发展； 然而，只有自己应用技术，推动技术是不足够的。为了最大限度的影响社会，带动社会发展，一定要成立商业组织，才能达到目的。所以，未来能够对技术社会产生影响的人，一定是懂得管理的技术Geek。因为技术已经越来越成为商业社会的原始推动力。<br /><br />我相信：接下来在中欧的EMBA学习，可以让我结合过去创业过程中总结的经验教训，不断学以致用，激发自己最大潜能，收获知识、理论和朋友；同时增强自己的现代管理理念、世界眼光和创新精神。<br /><div><br /></div><div><br /></div><div>当然，为了得到中欧EMBA学习机会，要付出很大的成本。中欧EMBA2011春季班的学费是<span class="Apple-style-span" style="color: red; font-size: large;"><b>￥458,000</b></span>。</div><div><br /></div><br />我从2007年创立叽歪开始，没有过正式的收入。最终叽歪的“被死亡”，让三年几乎所有的投入都烟消云散。（关于我的微博客创业经历，可参见我的2010年博文：<a href="http://blog.zixia.net/2010/09/microblogging-reloaded.html" target="_blank">The MicroBlogging Reloaded</a>）<br /><br />所以，我想了一个寻求赞助的方案，希望可以在双赢的基础上，获得大家的帮助：<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.googleusercontent.com/_Mb6DGPfNw3U/TZ3uGeMNAUI/AAAAAAAAE8c/EIndWElKpG8/s800/qiubaoyang.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" height="139" src="http://lh4.googleusercontent.com/_Mb6DGPfNw3U/TZ3uGeMNAUI/AAAAAAAAE8c/EIndWElKpG8/s320/qiubaoyang.jpg" width="135" /></a></div><br /><div style="text-align: center;"><span style="font-size: large; font-weight: bold;">李卓桓的中欧EMBA助学赞助方案</span><br /><span class="Apple-style-span" style="font-size: large;"><b><br /></b></span></div><ul><li>赞助额度：￥50,000/份</li><li>赞助回报1：在我中欧学习简历中，作为“投资人”列出；</li><li>赞助回报2：在我创业项目中享有优先天使投资的权利；</li><li>赞助回报3：每份赞助有资格享受以下“回馈项目”中1项为期1年的服务。</li><li>回馈项目列表：</li><ol><li><a href="http://zixia.net/about.html" target="_blank"><span id="goog_707247479"></span>互联网技术<span id="goog_707247480"></span></a>顾问服务</li><li><a href="http://www.linkedin.com/in/zixia" target="_blank">创业管理</a>顾问服务</li><li><a href="http://baike.baidu.com/view/80718.htm" target="_blank">滑翔伞</a>陪练顾问服务</li><li><a href="http://baike.baidu.com/view/717798.htm" target="_blank">跑酷</a>陪练顾问服务</li><li><a href="http://baike.baidu.com/view/1086499.htm" target="_blank">泰拳/巴西柔术</a>陪练顾问服务</li><li><a href="http://baike.baidu.com/view/55689.htm" target="_blank">SALSA</a>拉丁舞陪练顾问服务</li></ol></ul><br /><br />如您认同双赢赞助的思路，并愿意做深入探讨，请发送邮件到 zixia#zixia.net （将#更换为@），或在新浪微博<a href="http://weibo.com/lizhuohuan/" target="_blank">@李卓桓</a>与我联系，以了解更多情况。<br /><br />不胜感激！<br /><br /><span style="text-align: center;"><span style="font-size: large;">2012-11-24 更新：全部赞助额度已完成</span></span><br /><br />我的中欧投资人，他们是：<br /><ul><li>傅淼　&nbsp;<i>东方元鼎基金合伙人</i></li><li>罗键霆&nbsp;<i>派克兰帝创始人/CEO</i></li><li>姜晓丹 <i>慧点科技创始人/董事长</i></li><li>孙江涛 <i>钱袋网创始人/CEO</i></li><li>刘晓松&nbsp;<i>青松基金合伙人，A8音乐创始人/CEO，长江EMBA</i></li><li>王秋虎&nbsp;<i>开物基金合伙人，普能、中文在线创始人，清华IMBA</i></li><li>张永汉 <i>华欧资本合伙人，华光资本董事长，中欧CEO</i></li><li>曾祎安&nbsp;<i>友录创始人/CEO</i></li><li>王晓东&nbsp;<i>北极光创投Venture Partner</i></li></ul><div><br />非常感谢大家对我的支持！:-)</div><div><br /></div><div>令：俺因故留级，从E11BJ2留级到E12BJ1，学费从45.8万涨价到53.8万。</div>
+> “_中国目前正处在一个关键的转折点，如果说中国目前还缺少什么东西的话，那就是受过职业训练的商业领袖。_”
+>
+> <div align="right">**_约翰·奎尔奇（John A. Quelch）_**
+> _中欧国际工商学院 副院长兼教务长_
+> _哈佛大学商学院原资深副院长_
+> _伦敦商学院原院长_</div>
+
+![](/assets/2011/04-08-emba/emba-2011.jpg)
+
+<div style="text-align: center;">2011年3月19日 上海校区</div>
+
+[中欧国际工商学院](http://www.ceibs.edu/)2011级EMBA开学了。我和中欧的缘分始于2010年4月。
+
+那天，我偶然读到了中欧国际工商学院管理学副教授[肖知兴](http://www.ceibs.edu/faculty_c/cv/1058.shtml)所著的《[中国人为什么组织不起来](http://book.douban.com/subject/1902481/)》。一口气读完后，感受到书中不但有广阔国际视野、对中国文化底蕴的透彻理解，更有功力深厚的企业管理经验与人性的理解。
+
+接下来，我开始近距离接触中欧。我了解了中欧“最国际的中国商学院，最中国的国际商学院”精准定位；我感受了中欧美丽的北京校区。校园里风格大气、时尚的教学大楼和宁静明亮的教室让我不禁感慨，有了马上想要重归校园的欲望。
+
+[![](/assets/2011/04-08-emba/ceibs.jpg)
+
+<div class="separator" style="clear: both; text-align: center;">中欧国际工商学院 北京校区</div>
+
+10月，决定报考中欧EMBA，并且只报考了中欧。因为觉得和中欧有缘分。
+
+11月，准备推荐信。恰逢vkoo老大[古永锵](http://t.sina.com.cn/guyongqiang)忙于筹备优酷上市去美国路演。最终请了[AAMA亚杰商会摇篮计划](http://aamachina.com.cn/)的导师[李开复](http://t.sina.com.cn/kaifulee)老师、[雷军](http://t.sina.com.cn/leijun)老师帮我做了推荐。
+
+![](/assets/2011/04-08-emba/kaifu-helping.jpg)
+
+![](/assets/2011/04-08-emba/kaifu-specials.jpg)
+
+开复老师的推荐信中评价我是一个“full of energy”和“much more fun”的人。
+
+![](/assets/2011/04-08-emba/kaifu-rating.jpg)
+
+并在和“Other top entrepreneurs in Beijing”对比后，给了我2个良好5个优秀的评分。
+
+雷军老师的推荐信，由于交给我的时候已经封口，所以没看到，很遗憾。
+
+<div style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;">今年1月份，经历了报名坎坷，面试忐忑；终于荣幸的迎来了中欧录取通知书。</div>
+
+![](/assets/2011/04-08-emba/ceibs-confirm.jpg)
+
+回顾清华工科出身，一直在互联网领域创业的我：从创立清华校园最大的zixia FTP，到第一轮互联网泡沫时在ChinaRen参与创业；从在担任中国最大的Youtube模式网站优酷网首席科学家，到创立第一家中文微博客Twitter类网站叽歪网服务；一直走在互联网技术的前沿。
+
+在这些过程中，我是一个技术推动者和Geek。作为技术领域的Leader，我始终坚信：技术只有应用到社会中，才能带动带动社会发展； 然而，只有自己应用技术，推动技术是不足够的。为了最大限度的影响社会，带动社会发展，一定要成立商业组织，才能达到目的。所以，未来能够对技术社会产生影响的人，一定是懂得管理的技术Geek。因为技术已经越来越成为商业社会的原始推动力。
+
+我相信：接下来在中欧的EMBA学习，可以让我结合过去创业过程中总结的经验教训，不断学以致用，激发自己最大潜能，收获知识、理论和朋友；同时增强自己的现代管理理念、世界眼光和创新精神。
+
+<div>当然，为了得到中欧EMBA学习机会，要付出很大的成本。中欧EMBA2011春季班的学费是<span class="Apple-style-span" style="color: red; font-size: large;">**￥458,000**</span>。</div>
+
+我从2007年创立叽歪开始，没有过正式的收入。最终叽歪的“被死亡”，让三年几乎所有的投入都烟消云散。（关于我的微博客创业经历，可参见我的2010年博文：[The MicroBlogging Reloaded](http://blog.zixia.net/2010/09/microblogging-reloaded.html)）
+
+所以，我想了一个寻求赞助的方案，希望可以在双赢的基础上，获得大家的帮助：
+
+![](/assets/2011/04-08-emba/qiubaoyang.jpg)
+
+<div style="text-align: center;"><span style="font-size: large; font-weight: bold;">李卓桓的中欧EMBA助学赞助方案</span>
+<span class="Apple-style-span" style="font-size: large;"></span></div>
+
+*   赞助额度：￥50,000/份
+*   赞助回报1：在我中欧学习简历中，作为“投资人”列出；
+*   赞助回报2：在我创业项目中享有优先天使投资的权利；
+*   赞助回报3：每份赞助有资格享受以下“回馈项目”中1项为期1年的服务。
+*   回馈项目列表：
+
+1.  [<span id="goog_707247479"></span>互联网技术<span id="goog_707247480"></span>](https://zixia.net/about.html)顾问服务
+2.  [创业管理](http://www.linkedin.com/in/zixia)顾问服务
+3.  [滑翔伞](http://baike.baidu.com/view/80718.htm)陪练顾问服务
+4.  [跑酷](http://baike.baidu.com/view/717798.htm)陪练顾问服务
+5.  [泰拳/巴西柔术](http://baike.baidu.com/view/1086499.htm)陪练顾问服务
+6.  [SALSA](http://baike.baidu.com/view/55689.htm)拉丁舞陪练顾问服务
+
+如您认同双赢赞助的思路，并愿意做深入探讨，请发送邮件到 zixia#zixia.net （将#更换为@），或在新浪微博[@李卓桓](https://weibo.com/lizhuohuan/)与我联系，以了解更多情况。
+
+不胜感激！
+
+<span style="text-align: center;"><span style="font-size: large;">2012-11-24 更新：全部赞助额度已完成</span></span>
+
+我的中欧投资人，他们是：
+
+*   傅淼　 _东方元鼎基金合伙人_
+*   罗键霆 _派克兰帝创始人/CEO_
+*   姜晓丹 _慧点科技创始人/董事长_
+*   孙江涛 _钱袋网创始人/CEO_
+*   刘晓松 _青松基金合伙人，A8音乐创始人/CEO，长江EMBA_
+*   王秋虎 _开物基金合伙人，普能、中文在线创始人，清华IMBA_
+*   张永汉 _华欧资本合伙人，华光资本董事长，中欧CEO_
+*   曾祎安 _友录创始人/CEO_
+*   王晓东 _北极光创投Venture Partner_
+
+<div>
+非常感谢大家对我的支持！:-)</div>
+
+<div>令：俺因故留级，从E11BJ2留级到E12BJ1，学费从45.8万涨价到53.8万。</div>
