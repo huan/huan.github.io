@@ -24,7 +24,7 @@ tags:
 
 ![Slide Page 2][slide-02]
 
-AI is like Teenage SEX: 
+AI is like Teenage SEX:
 
 > Everyone talks about it,  
 > Nobody really knows how to do it,  
@@ -390,49 +390,49 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
 [huan-ai-slide]: https://docs.google.com/presentation/d/17bv7w8A-0x6H_aAhlIRj5AEzJByDsaV-jRROOi1g-d4/edit?usp=sharing
 [huan-ai-talk]: https://youtu.be/jDvVJtBtjlE
 [huan-ai-talk-tencent]: https://v.qq.com/x/page/l0519epyx7l.html
-[huan-ai-pdf]: /downloads/2017/12/entrepreneur-meet-ai--get-started-with-neural-networks-in-60-minutes.pdf
+[huan-ai-pdf]: /assets/2017/12/entrepreneur-meet-ai--get-started-with-neural-networks-in-60-minutes.pdf
 
 [lizhi-ximalaya]: http://m.ximalaya.com/40080673/sound/60728903
 
-[slide-01]: /downloads/2017/12/huan-ai-talk-01.jpg
-[slide-02]: /downloads/2017/12/huan-ai-talk-02.jpg
-[slide-03]: /downloads/2017/12/huan-ai-talk-03.jpg
-[slide-04]: /downloads/2017/12/huan-ai-talk-04.jpg
-[slide-05]: /downloads/2017/12/huan-ai-talk-05.jpg
-[slide-06]: /downloads/2017/12/huan-ai-talk-06.jpg
-[slide-07]: /downloads/2017/12/huan-ai-talk-07.jpg
-[slide-08]: /downloads/2017/12/huan-ai-talk-08.jpg
-[slide-09]: /downloads/2017/12/huan-ai-talk-09.jpg
-[slide-10]: /downloads/2017/12/huan-ai-talk-10.jpg
-[slide-11]: /downloads/2017/12/huan-ai-talk-11.jpg
-[slide-12]: /downloads/2017/12/huan-ai-talk-12.jpg
-[slide-13]: /downloads/2017/12/huan-ai-talk-13.jpg
-[slide-14]: /downloads/2017/12/huan-ai-talk-14.jpg
-[slide-15]: /downloads/2017/12/huan-ai-talk-15.jpg
-[slide-16]: /downloads/2017/12/huan-ai-talk-16.jpg
-[slide-17]: /downloads/2017/12/huan-ai-talk-17.jpg
-[slide-18]: /downloads/2017/12/huan-ai-talk-18.jpg
-[slide-19]: /downloads/2017/12/huan-ai-talk-19.jpg
-[slide-20]: /downloads/2017/12/huan-ai-talk-20.jpg
-[slide-21]: /downloads/2017/12/huan-ai-talk-21.jpg
-[slide-22]: /downloads/2017/12/huan-ai-talk-22.jpg
-[slide-23]: /downloads/2017/12/huan-ai-talk-23.jpg
-[slide-24]: /downloads/2017/12/huan-ai-talk-24.jpg
-[slide-25]: /downloads/2017/12/huan-ai-talk-25.jpg
-[slide-26]: /downloads/2017/12/huan-ai-talk-26.jpg
-[slide-27]: /downloads/2017/12/huan-ai-talk-27.jpg
-[slide-28]: /downloads/2017/12/huan-ai-talk-28.jpg
-[slide-29]: /downloads/2017/12/huan-ai-talk-29.jpg
-[slide-30]: /downloads/2017/12/huan-ai-talk-30.jpg
-[slide-31]: /downloads/2017/12/huan-ai-talk-31.jpg
-[slide-32]: /downloads/2017/12/huan-ai-talk-32.jpg
-[slide-33]: /downloads/2017/12/huan-ai-talk-33.jpg
-[slide-34]: /downloads/2017/12/huan-ai-talk-34.jpg
-[slide-35]: /downloads/2017/12/huan-ai-talk-35.jpg
-[slide-36]: /downloads/2017/12/huan-ai-talk-36.jpg
-[slide-37]: /downloads/2017/12/huan-ai-talk-37.jpg
-[slide-38]: /downloads/2017/12/huan-ai-talk-38.jpg
-[slide-39]: /downloads/2017/12/huan-ai-talk-39.jpg
-[slide-40]: /downloads/2017/12/huan-ai-talk-40.jpg
-[slide-41]: /downloads/2017/12/huan-ai-talk-41.jpg
-[slide-42]: /downloads/2017/12/huan-ai-talk-42.jpg
+[slide-01]: /assets/2017/12/huan-ai-talk-01.jpg
+[slide-02]: /assets/2017/12/huan-ai-talk-02.jpg
+[slide-03]: /assets/2017/12/huan-ai-talk-03.jpg
+[slide-04]: /assets/2017/12/huan-ai-talk-04.jpg
+[slide-05]: /assets/2017/12/huan-ai-talk-05.jpg
+[slide-06]: /assets/2017/12/huan-ai-talk-06.jpg
+[slide-07]: /assets/2017/12/huan-ai-talk-07.jpg
+[slide-08]: /assets/2017/12/huan-ai-talk-08.jpg
+[slide-09]: /assets/2017/12/huan-ai-talk-09.jpg
+[slide-10]: /assets/2017/12/huan-ai-talk-10.jpg
+[slide-11]: /assets/2017/12/huan-ai-talk-11.jpg
+[slide-12]: /assets/2017/12/huan-ai-talk-12.jpg
+[slide-13]: /assets/2017/12/huan-ai-talk-13.jpg
+[slide-14]: /assets/2017/12/huan-ai-talk-14.jpg
+[slide-15]: /assets/2017/12/huan-ai-talk-15.jpg
+[slide-16]: /assets/2017/12/huan-ai-talk-16.jpg
+[slide-17]: /assets/2017/12/huan-ai-talk-17.jpg
+[slide-18]: /assets/2017/12/huan-ai-talk-18.jpg
+[slide-19]: /assets/2017/12/huan-ai-talk-19.jpg
+[slide-20]: /assets/2017/12/huan-ai-talk-20.jpg
+[slide-21]: /assets/2017/12/huan-ai-talk-21.jpg
+[slide-22]: /assets/2017/12/huan-ai-talk-22.jpg
+[slide-23]: /assets/2017/12/huan-ai-talk-23.jpg
+[slide-24]: /assets/2017/12/huan-ai-talk-24.jpg
+[slide-25]: /assets/2017/12/huan-ai-talk-25.jpg
+[slide-26]: /assets/2017/12/huan-ai-talk-26.jpg
+[slide-27]: /assets/2017/12/huan-ai-talk-27.jpg
+[slide-28]: /assets/2017/12/huan-ai-talk-28.jpg
+[slide-29]: /assets/2017/12/huan-ai-talk-29.jpg
+[slide-30]: /assets/2017/12/huan-ai-talk-30.jpg
+[slide-31]: /assets/2017/12/huan-ai-talk-31.jpg
+[slide-32]: /assets/2017/12/huan-ai-talk-32.jpg
+[slide-33]: /assets/2017/12/huan-ai-talk-33.jpg
+[slide-34]: /assets/2017/12/huan-ai-talk-34.jpg
+[slide-35]: /assets/2017/12/huan-ai-talk-35.jpg
+[slide-36]: /assets/2017/12/huan-ai-talk-36.jpg
+[slide-37]: /assets/2017/12/huan-ai-talk-37.jpg
+[slide-38]: /assets/2017/12/huan-ai-talk-38.jpg
+[slide-39]: /assets/2017/12/huan-ai-talk-39.jpg
+[slide-40]: /assets/2017/12/huan-ai-talk-40.jpg
+[slide-41]: /assets/2017/12/huan-ai-talk-41.jpg
+[slide-42]: /assets/2017/12/huan-ai-talk-42.jpg
