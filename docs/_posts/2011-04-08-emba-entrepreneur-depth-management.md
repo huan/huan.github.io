@@ -2,7 +2,7 @@
 layout: post
 title: 我的中欧EMBA之旅 - Entrepreneur Depth Management Breadth
 date: '2011-04-08T16:10:00.007+08:00'
-author: zixia
+author: huan
 tags:
 - 学习
 modified_time: '2013-02-11T21:14:42.508+08:00'

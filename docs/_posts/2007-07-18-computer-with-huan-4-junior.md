@@ -2,7 +2,7 @@
 layout: post
 title: 我是如何与电脑成为死党的（四：大学二年级）（1998年）
 date: '2007-07-18T22:00:00.001+08:00'
-author: zixia
+author: huan
 tags:
 - 回忆录
 modified_time: '2010-06-27T23:56:55.051+08:00'

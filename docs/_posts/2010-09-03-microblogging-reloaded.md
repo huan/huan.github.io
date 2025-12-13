@@ -2,7 +2,7 @@
 layout: post
 title: The MicroBlogging Reloaded
 date: '2010-09-03T14:30:00.007+08:00'
-author: zixia
+author: huan
 tags:
   - 创业
 modified_time: '2010-09-10T21:37:05.418+08:00'

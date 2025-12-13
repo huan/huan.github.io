@@ -2,7 +2,7 @@
 layout: post
 title: Carpe Diem, Seize the Day!
 date: '2010-07-11T23:43:00.012+08:00'
-author: zixia
+author: huan
 tags:
 - 生活
 - 创业

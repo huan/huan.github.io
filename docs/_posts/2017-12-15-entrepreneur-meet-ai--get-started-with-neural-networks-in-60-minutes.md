@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络"
-date:   2017-12-15 08:37:01 +0800
-author: zixia
+author: huan
 tags:
 - ai
 - entrepreneur

@@ -2,7 +2,7 @@
 layout: post
 title: 我是如何与电脑成为死党的（序）
 date: '2007-06-28T22:45:00.001+08:00'
-author: zixia
+author: huan
 tags:
 - 回忆录
 modified_time: '2010-06-27T23:52:01.785+08:00'

@@ -2,7 +2,7 @@
 layout: post
 title: 叽歪被死亡
 date: '2010-02-23'
-author: zixia
+author: huan
 tags:
 - 创业
 - 叽歪

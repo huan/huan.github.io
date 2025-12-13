@@ -2,7 +2,7 @@
 layout: post
 title: "《叽歪志》 - 序"
 date: '2010-04-29T12:46:00.009+08:00'
-author: zixia
+author: huan
 tags:
 - 叽歪
 modified_time: '2010-06-28T00:44:23.221+08:00'
