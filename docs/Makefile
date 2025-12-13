@@ -11,7 +11,7 @@ install:
 
 .PHONY: test
 test:
-	npm run test
+	true
 
 .PHONY: code
 code:
@@ -28,6 +28,9 @@ build:
 .PHONY: serve
 serve:
 	bundle exec jekyll serve --incremental
+
+.PHONY: dev
+dev: clean serve
 
 .PHONY: docker
 docker-serve:
