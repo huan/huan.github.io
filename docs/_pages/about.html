@@ -1,0 +1,34 @@
+---
+title: About
+layout: page-sidebar
+permalink: "/about.html"
+image: https://raw.githubusercontent.com/ShipFail/.github/refs/heads/main/profile/fixit-felix-ship-fail.webp
+comments: true
+---
+
+{% assign preangel = site.authors | where: 'slug', 'preangel' | first %}
+
+{% assign partners = '' | split: ',' %}
+{% for person in site.peoples %}
+  {% if preangel.people contains person.slug %}
+     {% assign partners = partners | push: person %}
+  {% endif %}
+{% endfor %}
+
+<div class="container">
+<div class="row gap-y listrecent listauthor">
+  {% assign item_type = 'peoples' %}
+  {% for item in partners %}
+    {% include main-loop-card-item.html %}
+  {% endfor %}
+
+</div>
+</div>
+
+[![Ship.Fail](https://raw.githubusercontent.com/ShipFail/.github/refs/heads/main/profile/fixit-felix-ship-fail.webp)](https://github.com/ShipFail)
+
+We built Ship.Fail around one simple belief: 👉 Fail fast. Ship faster.
+
+Every abandoned repo, every bug-riddled prototype, every crazy hack that only half-ran — these aren’t embarrassments. They’re the sparks of something bigger. At Ship.Fail, we don’t hide our failures. We celebrate them, because each one brings us closer to what works.
+
+Made with <i class="fa fa-heart text-danger"></i> by <a href="/authors/felix/">@Felix</a>

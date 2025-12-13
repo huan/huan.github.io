@@ -1,37 +1,71 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site
+name: "CARPE DIEM"
+description: Huan's Blog
+logo: assets/images/logo.png
+favicon: assets/images/shipfail-icon.svg
+url: https://huan.github.io
+baseurl:
+email: huan@chatie.io
+mailchimp-list: https://zixia.us4.list-manage.com/subscribe/post?u=a8584b55dea5aa8bbc14bd1a0&amp;id=d9899f0d70
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Blog - Huan LI (李卓桓)
-email: zixia@zixia.net
-description: > # this means to ignore newlines until "baseurl:"
-  Wrok lkie you dno't need the menoy. Lvoe lkie you've neevr been hrut.
-  Dacning lkie nodoby's wacthnig. Snignig lkie nodoby's lsitneing.
-  Lvie lkie it's Haeevn on Erath.
-permalink: /:year/:month/:day/:title/
+math:
+  enable_by_default: false
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.zixia.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: huan_us
-github_username:  huan
+mermaid:
+  enable_by_default: false
 
-# Build settings
-markdown: kramdown
-theme: minima
+include: ["_pages"]
+permalink: blog/:year/:month/:day/:title/
 
+# Plugins
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: _posts
+    values:
+      layout: post
+      comments: true
+      author: Huan
+      avatar: /assets/authors/huan/avatar.webp
+
+  # all pages
+  - scope:
+      path: _pages
+    values:
+      layout: page
+  - scope:
+      path: _authors
+    values:
+      layout: author
+      comments: true
+      search: false
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  math_engine: mathjax
+
+# Paginate
+paginate: 15
+paginate_path: /blog/page:num/
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  - package.json
+  - _site
+  - node_modules
+
+collections:
+  authors:
+    output: true
+    permalink: /:collection/:path/
