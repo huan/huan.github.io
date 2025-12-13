@@ -55,3 +55,4 @@ Gemfile.lock
 .DS_Store
 .*.swp
 
+t/
